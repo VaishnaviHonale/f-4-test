@@ -7,10 +7,9 @@ const Home = () => {
   const [word, setWord] = useState('');
 
   const handleSearch = () => {
-    // Implement API call using 'word' state
-    // Dispatch addToHistory action with the searched word
+    
     dispatch(addToHistory(word));
-    // Implement API call to fetch word details
+    
   };
 
   return (

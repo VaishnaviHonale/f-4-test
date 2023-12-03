@@ -2,7 +2,7 @@
   "name": "react-module",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://VaishnaviHonale.github.io/f4-test",
+  "homepage": "http://VaishnaviHonale.github.io/f-4-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

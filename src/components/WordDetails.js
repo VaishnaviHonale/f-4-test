@@ -1,6 +1,4 @@
 
-
-// export default WordDetails;
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
@@ -36,7 +34,7 @@ const WordDetails = () => {
 
   return (
     <div>
-      {/* Display the fetched data */}
+      
       <pre>{JSON.stringify(details, null, 2)}</pre>
     </div>
   );
